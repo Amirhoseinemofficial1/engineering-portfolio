@@ -65,7 +65,7 @@ A consolidated family of market-data, signal, backtesting, order-book, risk-cont
 
 ## Portfolio scale
 
-The [complete project catalog](PROJECTS.md) documents **51 active private engineering repositories** plus clearly labeled archived development and placeholder lines.
+The [complete project catalog](PROJECTS.md) documents **52 active private engineering repositories** plus clearly labeled archived development and placeholder lines.
 
 ## Working principles
 

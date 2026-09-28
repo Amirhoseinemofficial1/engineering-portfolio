@@ -65,6 +65,7 @@ This catalog makes the shape of my work visible while the implementation remains
 
 - **Traditional Medicine Body Atlas** — React/Three.js male/female anatomy atlas with six-language descriptions, structure exploration, and exact 3D pain-location capture.
 - **C# Desktop Authentication Suite** — Windows Forms and SQL Server prototype for login, signup, role-aware navigation, and user administration.
+- **Kivy Desktop Learning Lab** — Curated 2023 UI exercises plus a maintained, tested calculator core with allowlisted expression evaluation.
 
 - **Zanjan Smart Assistant** — Kivy desktop assistant combining voice commands, camera workflows, system controls, and computer-vision modules.
 - **Punk City Automation** — OCR and desktop automation for structured game-data collection.
