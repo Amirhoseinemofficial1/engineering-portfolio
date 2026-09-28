@@ -5,6 +5,10 @@ This catalog makes the shape of my work visible while the implementation remains
 ## Intelligence, AI, and data platforms
 
 - **Fundamental Intelligence Brain** — Multi-asset event ingestion, evidence preservation, materiality routing, signal generation, controlled learning, and production service operations.
+- **Persian Mizaj Intelligence** — Seven-stage Persian NLP pipeline for OCR, corpus refinement, tokenizer research, from-scratch pretraining, grounded RAG, SFT, and narrow paraphrase repair.
+- **Persian Information Retrieval Lab** — Hybrid Persian search using BM25, word/character TF-IDF, reciprocal-rank fusion, and feature-based reranking.
+- **ArmGuard Predictive Maintenance** — Sensor feature engineering, stratified validation, model ensembling, and F2 threshold optimization for robotic-arm failure prediction.
+- **Applied AI Foundations** — Curated 2022–2023 notebooks and OpenCV lessons covering numerical computing, statistics, classical ML, image processing, and visual features.
 - **CEX Hunter v12** — Venue-aware token intelligence with security gates, purged evaluation, outcome labeling, calibration, and fail-closed promotion.
 - **NFT Hunter v10** — Multi-chain NFT discovery and scoring with provider health, quality vetoes, source evidence, and verified labels.
 - **Global Market Intelligence Platform** — Discovery, ingestion, deduplication, normalization, and routing for financial and digital-asset information.
@@ -33,6 +37,9 @@ This catalog makes the shape of my work visible while the implementation remains
 
 ## Full-stack products
 
+- **NooraCare Medical Web Platform** — Multilingual Next.js health-product interface for guided AI visits, doctor discovery, services, home care, orders, and commerce.
+- **Django Web Foundations** — Consolidated 2022 blog and multi-app projects covering models, migrations, templates, routing, and administration.
+
 - **GamePulse** — Game discovery and community platform with research-backed content, tournaments, groups, profiles, and video workflows.
 - **GamePlus Full-Stack Platform** — Django REST and React/Vite product for game discovery and rich content experiences.
 - **Kababi Zeytoon** — Mobile-first restaurant operations: ordering, inventory, kitchen tickets, customer messaging, and permission-scoped workflows.
@@ -54,15 +61,19 @@ This catalog makes the shape of my work visible while the implementation remains
 - **DEX MEV Reference Archive** — DEX, flash-loan, mempool, and bot references retained with upstream attribution.
 - **Airdrop Automation Bot** — Desktop-assisted experiments for Telegram airdrop workflows.
 
-## Computer vision, assistants, and messaging automation
+## Computer vision, 3D, desktop, assistants, and messaging automation
+
+- **Traditional Medicine Body Atlas** — React/Three.js male/female anatomy atlas with six-language descriptions, structure exploration, and exact 3D pain-location capture.
+- **C# Desktop Authentication Suite** — Windows Forms and SQL Server prototype for login, signup, role-aware navigation, and user administration.
 
 - **Zanjan Smart Assistant** — Kivy desktop assistant combining voice commands, camera workflows, system controls, and computer-vision modules.
 - **Punk City Automation** — OCR and desktop automation for structured game-data collection.
 - **Rubika Bot Customization Study** — Attribution-preserving customization of an existing Rubika bot for Persian messaging automation research.
 
-## Archived development line
+## Archived development lines
 
 - **Triangular Arbitrage Market Orders v2** — Archived after its source and Git ancestry were consolidated into the canonical triangular-arbitrage repository.
+- **Sami / Sami878** — Archived empty placeholders retained only as account history; no implementation was committed and they are not counted as engineering projects.
 
 ## Provenance and privacy
 
